@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ws-visualstudio\\MinimalAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D918A18B-B98B-491F-B4BD-23A400966D71}|MinimalAPIProject\\MinimalAPIProject.csproj|c:\\temp\\ws-visualstudio\\minimalapiproject\\minimalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D918A18B-B98B-491F-B4BD-23A400966D71}|MinimalAPIProject\\MinimalAPIProject.csproj|solutionrelative:minimalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D918A18B-B98B-491F-B4BD-23A400966D71}|MinimalAPIProject\\MinimalAPIProject.csproj|c:\\temp\\ws-visualstudio\\minimalapiproject\\minimalapiproject\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D918A18B-B98B-491F-B4BD-23A400966D71}|MinimalAPIProject\\MinimalAPIProject.csproj|solutionrelative:minimalapiproject\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\temp\\ws-visualstudio\\MinimalAPIProject\\MinimalAPIProject\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MinimalAPIProject\\Models\\UserModel.cs",
+              "ToolTip": "C:\\temp\\ws-visualstudio\\MinimalAPIProject\\MinimalAPIProject\\Models\\UserModel.cs",
+              "RelativeToolTip": "MinimalAPIProject\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:49:31.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ws-visualstudio\\MinimalAPIProject\\MinimalAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPIProject\\Program.cs",
+              "ToolTip": "C:\\temp\\ws-visualstudio\\MinimalAPIProject\\MinimalAPIProject\\Program.cs",
+              "RelativeToolTip": "MinimalAPIProject\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:49:00.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
